@@ -27,5 +27,16 @@ The team will use Microsoft Teams for meetings and communication, and GitHub for
 ## 3. Task Ownership
 Tasks will be divided based on individual strengths and assigned through mutual agreement. Each member is responsible for completing their assigned tasks on time. If a member is unable to meet deadlines, they must inform the group in advance. Repeated failure to contribute will be escalated to the lecturer.
 
+## 4. Diverse Working Styles
+The team acknowledges that members may have different schedules and commitments. Flexibility will be maintained by setting realistic deadlines and accommodating availability where possible. However, all members must ensure timely contribution and participation.
+ 
 ---
+ 
+## 5. Conflict Resolution
+In case of disagreements, the team will first attempt to resolve issues through discussion. If unresolved, the issue will be documented and escalated to the teaching team. Respectful communication will be maintained at all times.
+ 
+---
+ 
+## 6. Academic Integrity
+All work submitted will comply with CDU’s academic integrity policies. Any use of AI tools must be reviewed, understood, and agreed upon by all members. No member will submit work that they do not understand. Proper referencing and ethical practices will be followed.
    
