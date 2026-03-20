@@ -44,28 +44,44 @@ All work submitted will comply with CDU’s academic integrity policies. Any use
  
 ## 1. Milestones
 - Week 3: Finalise project idea and requirements  
+
 - Week 6: Complete initial system design (UI/UX + architecture)  
+
 - Week 7: Develop core functionalities  
+
 - Week 9: Complete integration and testing  
+
 - Week 11: Final review and submission preparation  
+
 ---
 ## 2. Task Breakdown
 - Member 1: Frontend development (UI/UX design, layout)  
+
 - Member 2: Backend logic and system functionality  
+
 - Member 3: Testing, debugging, and documentation  
+
 - Member 4: Integration, deployment, and reporting  
+
 (All members will support each other where required.)
+
 ---
 ## 3. Internal Checkpoints
 - Weekly progress meetings  
+
 - Mid-development review (Week 6–7)  
+
 - Pre-submission testing and review (Week 10)  
+
 ---
 ## 4. Integration Points
 All individual components will be merged through GitHub. Integration will occur after major development milestones, followed by system testing to ensure compatibility and performance.
+
 ---
 ## 5. Continuous Improvement
 This plan is provisional and will be updated as the project progresses. Adjustments will be made based on team performance, challenges, and feedback.
+
 ---
 #  Agreement
 All team members agree to follow the above terms and commit to contributing actively and professionally throughout the project.
+ 
