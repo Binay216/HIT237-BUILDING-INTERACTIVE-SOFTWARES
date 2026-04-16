@@ -850,7 +850,7 @@ h3 { font-size: 1.1rem; margin-bottom: 12px; }
 }
 
 /* Responsive */
-@media (max-width: 768px) {
+@media (max-width: 769px) {
     .error-container {
         flex-direction: column;
         text-align: center;
